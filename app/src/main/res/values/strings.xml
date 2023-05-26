@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calendar App</string>
+    <string name="title_name">Calendar App</string>
+    <string name="msg">Do you want to leave this app ?</string>
+    <string name="positiveMsg">Yes</string>
+    <string name="negativeMsg">No</string>
+</resources>
